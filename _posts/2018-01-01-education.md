@@ -12,7 +12,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ## [BSB Finance](https://business.wright.edu/finance-and-financial-services/bachelor-of-science-in-business-finance-major)
 [Wright State University](https://www.wright.edu/) <br>
 <i class="fa-solid fa-location-pin"></i> **Dayton, Ohio** <br>
-*August 2017 – April 2022* <br>
+<i class="fa-regular fa-calendar-days"></i> *August 2017 – April 2022* <br>
 
 <details><summary>Details</summary>
 <p>
@@ -23,7 +23,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ## [BA French](https://liberal-arts.wright.edu/social-sciences-and-international-studies/bachelor-of-arts-in-french)
 [Wright State University](https://www.wright.edu/) <br>
 <i class="fa-solid fa-location-pin"></i> **Dayton, Ohio** <br>
-*August 2012 – April 2017* <br>
+<i class="fa-regular fa-calendar-days"></i> *August 2012 – April 2017* <br>
 
 <details><summary>Details</summary>
 <p>
@@ -34,7 +34,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ## [Software Development Certificate](https://www.techelevator.com/)
 [Tech Elevator Coding Bootcamp](https://www.techelevator.com/) <br>
 <i class="fa-solid fa-location-pin"></i> **Cincinnati, Ohio** <br>
-*September 2022 – December 2022* <br>
+<i class="fa-regular fa-calendar-days"></i> *September 2022 – December 2022* <br>
 
 <details><summary>Details</summary>
 <p>
@@ -45,7 +45,7 @@ image: pexels-pavel-danilyuk-7942430-resized.jpg
 ## [Diplôme de Français des Affaires](https://www.cidef.uco.fr/navigation/academics/certifications/certificates-7821.kjsp)
 [Centre International d'Études Françaises](https://www.cidef.uco.fr/) <br>
 <i class="fa-solid fa-location-pin"></i> **Angers, France** <br>
-*August 2015 - December 2015* <br>
+<i class="fa-regular fa-calendar-days"></i> *August 2015 - December 2015* <br>
 
 <details><summary>Details</summary>
 <p>
