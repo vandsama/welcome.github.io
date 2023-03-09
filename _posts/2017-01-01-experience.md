@@ -61,12 +61,5 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 </p>
 </details>  
-
-
-<style>
-  h3 {
-    margin-top: 5px;
-  }
-</style>
   
   
