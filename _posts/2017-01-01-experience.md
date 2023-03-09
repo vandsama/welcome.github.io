@@ -11,7 +11,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 ## Intern Account Manager
 ### Investment Operations
-[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) **Dayton, OH** <br>
+[Westminster Financial Securities Inc.](https://www.westminsterfinancial.com/) <br>
+<i class="fa-thin fa-location-pin"></i> **Dayton, OH** <br>
 *November 2020 – April 2022* <br>
 
 <details><summary>Responsibilities</summary>
@@ -28,7 +29,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
 
 ## Supplemental Instruction Leader
 ### Business Statistics and Quantitative Business Modeling
-[Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) **Dayton, OH** <br>
+[Wright State University Tutoring Services Center](https://www.wright.edu/student-success/academic-support/tutoring-services) <br>
+<i class="fa-thin fa-location-pin"></i> **Dayton, OH** <br>
 *August 2019 – July 2020* <br>
 
 <details><summary>Responsibilities</summary>
@@ -45,7 +47,8 @@ image: pexels-ömer-yılmaz-6726743-resized.jpg
   
 ## Math Tutor
 ### College Algebra, Business Statistics, and Quantitative Business Modeling
-[Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) **Dayton, OH** <br>
+[Wright State University Math Learning Center](https://www.wright.edu/student-success/academic-support/math-learning-center) <br>
+<i class="fa-thin fa-location-pin"></i> **Dayton, OH** <br>
 *August 2019 – April 2021* <br>
 
 <details><summary>Responsibilities</summary>
